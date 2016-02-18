@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "How XTG Documents"
-date:   2016-02-09 16:52:01 +0100
-categories: jekyll update
+date:   2016-02-18 12:52:00 +0100
+categories: xtg documentation
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
