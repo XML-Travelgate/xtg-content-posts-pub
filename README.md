@@ -1,1 +1,0 @@
-# xtg-content-posts-pub
