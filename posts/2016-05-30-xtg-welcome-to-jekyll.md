@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2016-02-09 16:52:01 +0100
+date:   2016-05-30 10:00:01 +0100
 categories: jekyll update
 ---
 XML Travelgate uses [jekyll-docs] in order to render blog and documentation.
