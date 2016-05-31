@@ -9,9 +9,10 @@ XML Travelgate uses [jekyll-docs] to render blog and documentation.
 After working with rst format and rendering with [readthedocs], we decided to begin use more standard md formats rendering to html using [jekyll]
 
 Once tools are choosen, target objectives:
-- Unify documentation articles, blogs, internal documentation... must be documented in same way
-- Use public [github] repos massively. We love transparency, we love Pull Requests
-- Use private [gitlab] On-Prmise repos when needed. We document internal processes
+* Unify documentation articles, blogs, internal documentation... must be documented in same way
+* Use public [github] repos massively. We love transparency, we love Pull Requests
+* Use private [gitlab] On-Prmise repos when needed. We document internal processes
+
 
 [gitlab]: https://www.gitlab.com
 [github]: https://www.github.com
