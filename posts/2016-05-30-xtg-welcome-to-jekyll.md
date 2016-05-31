@@ -4,7 +4,7 @@ title:  "XTG welcomes Jekyll"
 date:   2016-05-30 10:00:01 +0100
 categories: jekyll update blog xtg
 ---
-XML Travelgate uses [jekyll-docs] to render blog and documentation.
+XML Travelgate uses [jekyll-docs] to render blog and documentation
 
 After working with rst format and rendering with [readthedocs], we decided to begin use more standard md formats rendering to html using [jekyll]
 
