@@ -6,15 +6,17 @@ categories: jekyll update blog xtg
 ---
 XML Travelgate uses [jekyll-docs] to render blog and documentation.
 
-After working with rst format and rendering with [readthedocs], we decided to begin use more standard md formats rendering to html using [jekyll]
+After use [rst] format and render with [readthedocs], we decided to use a more standard documentation format, so we move to [md] using [jekyll] for html rendering
 
-Once tools are choosen, target objectives:
+Once tools are choosen, we fix target objectives:
 
-* Articles, documentation,blogs, internal processes... must be documented in same way
-* Use public [github] repos massively. We love transparency, we love Pull Requests
+* Articles, documentation,blogs,internal processes... all *must be documented in same way*
+* Use public [github] repos. We love transparency, we love Pull Requests
 * Use private [gitlab] On-Premise repos for internal documentation
 
 
+[md]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[rst]: http://docutils.sourceforge.net/rst.html
 [gitlab]: https://www.gitlab.com
 [github]: https://www.github.com
 [jekyll]: http://jekyllrb.com
